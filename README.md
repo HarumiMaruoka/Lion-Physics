@@ -12,4 +12,5 @@ UnityECSを用いて処理する。<br>
 
 <br>
 未完了<br>
-無し<br>
+Lionに組み込める形に加工する。<br>
+（MonoBehaviourとEntityを共生できるようにする。）<br>
